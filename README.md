@@ -2,7 +2,7 @@
 
 This template deploys a self-hosted version of [n8n](https://n8n.io/) with AI beta functionalities including LangChain. Internally it uses a PostgreSQL database to store the data.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/EfkjX2?referralCode=lJoDnn)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/irlncs?referralCode=J0o9Xb)
 
 ## ✨ Features
 
